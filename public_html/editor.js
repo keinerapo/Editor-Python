@@ -61,7 +61,7 @@ $(document).ready(function () {
     var editor = CodeMirror.fromTextArea(document.getElementById('code'), {
         //parserfile: ["parsepython.js"],
         autofocus: true,
-        theme: "rubyblue",
+        theme: "the-matrix",
         //path: "static/env/codemirror/js/",
         lineNumbers: true,
         textWrapping: false,
